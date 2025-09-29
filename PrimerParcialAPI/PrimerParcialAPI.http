@@ -1,0 +1,6 @@
+@PrimerParcialAPI_HostAddress = http://localhost:5181
+
+GET {{PrimerParcialAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
