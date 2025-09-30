@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PrimerParcialAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e346793baa2aa2ccc9dc1e8bfacfd4f07aaed8c0")]
 [assembly: System.Reflection.AssemblyProductAttribute("PrimerParcialAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PrimerParcialAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
