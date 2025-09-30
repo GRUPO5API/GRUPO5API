@@ -1,4 +1,4 @@
-using Api.Data;
+using PrimerParcialAPI.Data;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
