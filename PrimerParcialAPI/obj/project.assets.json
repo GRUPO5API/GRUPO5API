@@ -5149,24 +5149,31 @@
     ]
   },
   "packageFolders": {
-    "/Users/nadiamartinezrocha/.nuget/packages/": {}
+    "C:\\Users\\Javier\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nadiamartinezrocha/RiderProjects/GRUPO5API/PrimerParcialAPI/PrimerParcialAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Javier\\RiderProjects\\GRUPO5API\\PrimerParcialAPI\\PrimerParcialAPI.csproj",
       "projectName": "PrimerParcialAPI",
-      "projectPath": "/Users/nadiamartinezrocha/RiderProjects/GRUPO5API/PrimerParcialAPI/PrimerParcialAPI.csproj",
-      "packagesPath": "/Users/nadiamartinezrocha/.nuget/packages/",
-      "outputPath": "/Users/nadiamartinezrocha/RiderProjects/GRUPO5API/PrimerParcialAPI/obj/",
+      "projectPath": "C:\\Users\\Javier\\RiderProjects\\GRUPO5API\\PrimerParcialAPI\\PrimerParcialAPI.csproj",
+      "packagesPath": "C:\\Users\\Javier\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Javier\\RiderProjects\\GRUPO5API\\PrimerParcialAPI\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/Users/nadiamartinezrocha/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Javier\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -5241,7 +5248,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.305/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
