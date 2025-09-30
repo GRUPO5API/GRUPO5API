@@ -7,6 +7,7 @@ namespace PrimerParcialAPI.Data
     {
         public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) { }
 
+        public DbSet<SupportTicket> SupportTickets { get; set; } = null;
         public DbSet<Event> Events { get; set; } = null!;
         public DbSet<Product> Products { get; set; } = null!;
 
@@ -24,4 +25,4 @@ namespace PrimerParcialAPI.Data
                 .HasPrecision(18, 2); // precision = 18, scale = 2
         }
     }
-}
+}    
